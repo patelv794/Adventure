@@ -1,0 +1,70 @@
+     
+         .indexbody {
+             background-color: skyblue;
+             font-family: Courier New;
+             margin: 20px;
+         }
+         .nav a {
+             background-color: black;
+             font-size: 20px;
+             text-decoration: none;
+             border: 1px solid yellow;
+             color: white;
+             border-radius: 20px;
+             
+         }
+           .nav a:hover {
+    
+    background-color: #4682b4;
+    border: 1px solid black;
+               }
+               .indexIMG img{
+                   width: 600px;
+                   border: 1px solid white;
+                   border-radius: 20px;
+                   box-shadow: 10px 15px 10px white;
+               }
+             
+ .climbingBODY {
+             background-color: skyblue;
+             font-family: "Courier New", Courier, monospace;
+             margin: 20px;
+         }
+         
+           .climbingMAP img{
+               
+               border: 1px solid black;
+               border-radius: 20px;
+               width: 550px;
+               
+           }
+           span {
+               color: red;
+           }
+.climbingh1{
+    text-align: center;
+    
+}
+        .climbingIMG img{
+            
+            width: 400px;
+            height: 300px;
+            border-radius: 20px;
+        }
+        .climbingIMG h1{
+            text-align: center;
+            font-family: monospace;
+            
+        }
+p {
+        text-indent: 50px;
+    font-size: 20px;
+    color: red;
+}
+.climbingIMG a{
+    text-decoration: none;
+    font-size: 15px;
+}
+.climbingIMG a:hover {
+    text-decoration: underline;
+}
